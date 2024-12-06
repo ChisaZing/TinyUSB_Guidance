@@ -15,7 +15,7 @@
 
 ## 有关*TinyUSB*
 
-[*TInyUSB*](https://github.com/hathach/tinyusb "TinyUSB")是一个开源的USB主机和设备堆栈库，旨在轻量级和高度可移植，非常适合用于嵌入式系统（如微控制器）的 USB 通信开发。它通常用于需要 USB 通信的开发环境，如在 *STM32*、*ESP32* 和其他基于 ARM 的微控制器上构建 USB 设备或主机。
+[*TinyUSB*](https://github.com/hathach/tinyusb "TinyUSB")是一个开源的USB主机和设备堆栈库，旨在轻量级和高度可移植，非常适合用于嵌入式系统（如微控制器）的 USB 通信开发。它通常用于需要 USB 通信的开发环境，如在 *STM32*、*ESP32* 和其他基于 ARM 的微控制器上构建 USB 设备或主机。
 
 ## 使用*CLION*进行*STM32*的开发  
 
